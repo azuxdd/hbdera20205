@@ -36,7 +36,7 @@ Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? 
 
 -azu
 
-BENER KATA HEL
+BISA LIVE UPDATE DONG WKWKWK
 ---
 """)
 
