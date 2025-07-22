@@ -22,7 +22,7 @@ st.markdown("""
 
 # Ucapan ulang tahun
 st.markdown(f"""
-## 생일 축하해 , **Aera!** 🎈
+## 생일 축하해 , **Aera!** 🌸
 
 Hari Senin kemarin, 14 Juli 2025 is your really special day. Semoga tahun ini penuh dengan kebahagiaan, kesehatan, dan kesuksesan!
             
