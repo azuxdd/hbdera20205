@@ -36,7 +36,7 @@ Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? 
 
 -azu
 
-slept at 8, wake up at 2 AM, and record hehe
+BENER KATA HEL
 ---
 """)
 
