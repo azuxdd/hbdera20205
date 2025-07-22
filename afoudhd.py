@@ -32,7 +32,7 @@ You've done A LOT of things for this celebration, your cover song, your 12 hour 
             
 Bahkan ditengah tugas kuliah (dan anggota kelompok) yang sulit, kamu masih sempet-sempetin buat ngerayain bareng jingundul-jingundul ini. (rispek gongju)
                  
-Lastly, apa benar kartu ucapan dari azu cukup tanpa hal satu ini? 
+Lastly, apa benar kartu ucapan dari azu cukup tanpa hal satu ini? (seperti biasa audionya burik yah)
             
 ---
 """)
@@ -42,4 +42,4 @@ audio_file = open('hbd.m4a', 'rb')
 st.audio(audio_file.read(), format='audio/m4a')
 
 # Pesan penutup
-st.markdown("📝 Dibuat dengan ❤️ menggunakan Streamlit.")
+st.markdown("bawaan GPT: 📝 Dibuat dengan ❤️ menggunakan Streamlit.")
