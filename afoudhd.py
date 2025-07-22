@@ -36,7 +36,7 @@ Lastly, apa benar kartu ucapan dari azu cukup tanpa hal satu ini?
 """)
 
 # VN
-audio_file = open('hbd.mp3', 'rb')
+audio_file = open('hbd.mp4a', 'rb')
 st.audio(audio_file.read(), format='audio/mp3')
 
 # Pesan penutup
