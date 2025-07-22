@@ -28,7 +28,7 @@ Hari Senin kemarin, 14 Juli 2025 is your really special day. Semoga tahun ini pe
             
 Ironically aku malah lebih sibuk pas libur, jd rada low effort ini. Tapi aku harap tetap tersampaikan lah ya (maaf maaf)
               
-You've done A LOT of things for this celebration! your cover song, endurance stream 12 jam, karaoke stream, dan stream ini. (good job yah, i'm sure everyone appreciates it!)
+You've done A LOT of things for this celebration! your cover song, endurance stream 12 jam, karaoke stream, dan stream ini. (good job yah, i'm sure everyone appreciates it!) (HARUS APPRECIATE!)
             
 Bahkan ditengah-tengah tugas kuliah (dan anggota kelompok) yang sulit (banget), kamu masih sempet-sempetin buat ngerayain bareng kita-kita. (Rispek, gongju!)
                  
