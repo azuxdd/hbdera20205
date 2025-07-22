@@ -28,9 +28,9 @@ Hari Senin kemarin, 14 Juli 2025 is your really special day. Semoga tahun ini pe
             
 Ironically, aku malah lebih sibuk pas libur, jd rada low effort ini. Tapi aku harap tetap tersampaikan lah ya (maaf maaf)
               
-You've done A LOT of things for this celebration, your cover song, your 12 hour endurance stream, the karaoke stream, and this as well. (good job yah)
+You've done A LOT of things for this celebration! your cover song, the 12 hour endurance stream, the karaoke stream, and this as well. (good job yah)
             
-Bahkan ditengah tugas kuliah (dan anggota kelompok) yang sulit, kamu masih sempet-sempetin buat ngerayain bareng jingundul-jingundul ini. (rispek gongju)
+Bahkan ditengah-tengah tugas kuliah (dan anggota kelompok) yang sulit (banget), kamu masih sempet-sempetin buat ngerayain bareng kita-kita. Rispek, gongju!
                  
 Lastly, apa benar kartu ucapan dari azu cukup tanpa hal satu ini? (seperti biasa audionya burik yah)
             
@@ -42,4 +42,4 @@ audio_file = open('hbd.m4a', 'rb')
 st.audio(audio_file.read(), format='audio/m4a')
 
 # Pesan penutup
-st.markdown("bawaan GPT: 📝 Dibuat dengan ❤️ menggunakan Streamlit.")
+st.markdown("Dibuat dengan ❤️ menggunakan Streamlit.")
