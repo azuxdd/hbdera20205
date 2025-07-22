@@ -22,18 +22,16 @@ st.markdown("""
 
 # Ucapan ulang tahun
 st.markdown(f"""
-## 생일 축하, **Aera!** 🎈
+## 생일 축하해 , **Aera!** 🎈
 
-Hari Senin kemarin, 14 Juli 2025 is your really special day. Semoga tahun ini penuh dengan kebahagiaan, kesehatan, dan kesuksesan!
+Hari Senin kemarin, 14 Juli 2025 is your really special day. Semoga tahun ini penuh dengan kebahagiaan, kesehatan, dan kesuksesan ya!
               
-You've done A LOT of things for this celebration, your cover song, your 12 hour endurance stream, the karaoke stream, and this as well.
+You've done A LOT of things for this celebration, your cover song, your 12 hour endurance stream, the karaoke stream, and this as well. (good job yah)
             
-Bahkan ditengah tugas kuliah (dan anggota kelompok) yang sulit, kamu masih sempet-sempetin buat ngerayain bareng jingundul-jingundul ini.
+Bahkan ditengah tugas kuliah (dan anggota kelompok) yang sulit, kamu masih sempet-sempetin buat ngerayain bareng jingundul-jingundul ini. (rispek ketua)
                  
 Lastly, apa benar kartu ucapan dari azu cukup tanpa hal satu ini?
             
-(suara dari sleep deprived jin gundul satu ini)
-
 ---
 """)
 
