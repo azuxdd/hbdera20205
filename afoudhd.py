@@ -43,5 +43,3 @@ Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? 
 audio_file = open('hbd.m4a', 'rb')
 st.audio(audio_file.read(), format='audio/m4a')
 
-# Pesan penutup
-st.markdown("Dibuat dengan ❤️ menggunakan Streamlit")
