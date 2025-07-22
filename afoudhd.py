@@ -36,7 +36,7 @@ Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? 
 
 -azu
 
-BENER BANGET JAM 2 PAGI
+slept at 8, wake up at 2 AM, and record hehe
 ---
 """)
 
