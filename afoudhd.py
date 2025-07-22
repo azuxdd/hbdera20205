@@ -35,7 +35,8 @@ Bahkan ditengah-tengah tugas kuliah (dan anggota kelompok) yang sulit (banget), 
 Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? (seperti biasa audionya burik ya wkwkwk)
 
 -azu
-            
+
+bisa live update btw wkwk  
 ---
 """)
 
