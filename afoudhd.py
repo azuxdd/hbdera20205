@@ -32,7 +32,7 @@ You've done A LOT of things for this celebration! your cover song, endurance str
             
 Bahkan ditengah-tengah tugas kuliah (dan anggota kelompok) yang sulit (banget), kamu masih sempet-sempetin buat ngerayain bareng kita-kita. (Rispek, gongju!)
                  
-Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa hal satu ini? (seperti biasa audionya burik yah)
+Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? (seperti biasa audionya burik yah)
 
 -azu
             
