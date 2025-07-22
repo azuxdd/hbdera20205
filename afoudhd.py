@@ -36,7 +36,7 @@ Last, apa benar kartu ucapan dari jin gundul yang ini cukup tanpa yang dibawah? 
 
 -azu
 
-YA MAAF :(
+BENER BANGET JAM 2 PAGI
 ---
 """)
 
